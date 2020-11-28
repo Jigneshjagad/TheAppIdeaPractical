@@ -1,7 +1,13 @@
 # TheAppIdeaPractical
 
-This is sample practical of room database.
+This app demo i put following functionality:
 
-In this practical you can see register user list. Register user with photo,name,email and mobile number. 
+- Android room database integration.
 
-In this practical you can perform insert, update and delete user opration thorw room database.
+- Register user with detail of photo,name,email and mobile number.
+
+- Show inserted user data list in recyclerview.
+
+- Open and Edit user information.
+
+- Perform insert, update and delete user opration thorw room database.
